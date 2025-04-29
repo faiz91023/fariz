@@ -43,7 +43,7 @@
             <p><span class="label">Nama:</span> Fariz Ardiansyah</p>
             <p><span class="label">Tempat, Tanggal Lahir:</span> Garut, 9 November 2008</p>
             <p><span class="label">Jenis Kelamin:</span> Laki-laki</p>
-            <p><span class="label">Alamat:</span> blubur limbangan, SMK IT AL-MA'MUN</p>
-            <p><span class="label">Sekolah:</span> SM</p>
+            <p><span class="label">Alamat:</span> blubur limbangan,kp pasirwaru</p>
+            <p><span class="label">Sekolah:</span> SMK IT AL-MA'MUN</p>
             <p><span class="label">Hobi:</span> Gamers, bermain sepak bola</p>
             <p><span class="labe
